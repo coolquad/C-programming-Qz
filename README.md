@@ -1,13 +1,13 @@
 # C-programming-Qz
 
-####Q1:
+#### Q1:
 A: The value for variable a is used on this line. Because we called the function with address of variable 	a(parameter).
 B: The incval function in main.c is a declaration and the incval function in func.c is a definition.
 C: The second printed result is wrong.
 	The correct answer is a:2.0
 D: We use link technique.
 
-####Q2:
+#### Q2:
 A:
 	1: memory address is 0x0055bac8dff299, #2
 	2: memory address is 0x0055bac8e02080, #5,#6
@@ -17,11 +17,11 @@ A:
 B:	They are very close. Because blerg variable is declared first in main function.
 C:	They are very close. Because the variable whoa is declared after variable whoa.
 
-####Q3-answer:
+#### Q3-answer:
 	The memory addresses associated with variables aren't determined until after the program is compiled and running on the computer.
 So we can’t control the address of values on code.
 
-####Q4
+#### Q4
 The chunking is a process by which individual pieces of an information set are broken down and then grouped together in a meaningful whole, so The chunks by which the information is grouped is meant to improve short-term retention of the material, thus bypassing and seperating  the limited capacity of working memory
 A
 If you want to see your cached memory of your processor . then you have to go to the BIOS Setup . which is normally F10 in most of the computers . or may be F4 or F12.
@@ -67,7 +67,7 @@ Frame                           |      offset
 0x 004039A
 
 
-####Q5
+#### Q5
 #include "idnm.h"
 int main(int argc,  char *argv[]){
 	//(A)
